@@ -1,1 +1,3 @@
-# CyberPunk-2069
+# Graduation project
+- Realization of AI opponents
+- Dungeon generation
